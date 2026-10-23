@@ -1,0 +1,8 @@
+{
+    "version":  "0.1.3",
+    "name":  "MonkeyBalloons",
+    "orientation":  "landscape",
+    "platform":  "web-mobile",
+    "builtAt":  "2026-10-24T01:55:50.3015938+08:00",
+    "engine":  "3.8.8"
+}
